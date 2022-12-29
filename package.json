@@ -1,0 +1,19 @@
+{
+  "name": "is-even-checker",
+  "version": "1.0.0",
+  "description": "Check if a number is even",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonot-cyber/is-even-checker.git"
+  },
+  "author": "jonot-cyber",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jonot-cyber/is-even-checker/issues"
+  },
+  "homepage": "https://github.com/jonot-cyber/is-even-checker#readme"
+}
